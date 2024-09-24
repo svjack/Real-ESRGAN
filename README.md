@@ -51,7 +51,7 @@ python upscale_video.py <video_path> -o <output_dir> -r <resolution> -m <model> 
 ### Example
 
 ```bash
-python upscale_video.py "1.mp4" -o ./output -r 4k -m RealESRGAN_x4plus -p /environment/miniconda3/envs/video_4k/bin/python
+python upscale_video.py "1.mp4" -o ./output -r FHD -m RealESRGAN_x4plus -p /environment/miniconda3/envs/video_4k/bin/python
 ```
 
 ### Parameters
